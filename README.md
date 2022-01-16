@@ -1,4 +1,4 @@
 # borzo
 Landing page
 
-![View SITE](https://iruthayasanthose.github.io/borzo/)
+[VIEW SITE](https://iruthayasanthose.github.io/borzo/)
